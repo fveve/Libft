@@ -9,7 +9,7 @@ The Libft is a librairy of C functions designed to assist in larger project.
 1. Clone the repository:  
    ```bash
    git clone https://github.com/fveve/Libft.git
-   cd project-name
+   cd Libft
 2. Compile the project:
      ```bash
      make
