@@ -1,4 +1,4 @@
-# **Project Name**
+# **Libft**
 
 ### **Description**  
 A reproduction of some C standard libraries, plus some bonus functions using linked lists.
