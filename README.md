@@ -1,7 +1,7 @@
 # **Libft**
 
 ### **Description**  
-The Libft is a librairy of c functions destined to help in bigger project.
+The Libft is a librairy of C functions designed to assist in larger project.
 
 ---
 
